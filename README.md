@@ -5,7 +5,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkasima&layout=compact&langs_count=3&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" width="180em" alt="Bongo-cat" src="https://media1.tenor.com/images/a3d1b3b19f405464f61a9e71a102f64b/tenor.gif?itemid=22068584">
+  <img align="right" width="200em" alt="Bongo-cat" src="https://media1.tenor.com/images/a3d1b3b19f405464f61a9e71a102f64b/tenor.gif?itemid=22068584">
 </div>
 
 
