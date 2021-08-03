@@ -4,7 +4,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adkasima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkasima&layout=compact&langs_count=3&theme=midnight-purple"/>
 </div>
- 
+<div style="display: inline_block"><br>
+ <div class="tenor-gif-embed" data-postid="22068584" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/bongo-cat-codes-gif-22068584">Bongo Cat Codes GIF</a> from <a href="https://tenor.com/search/bongocatcodes-gifs">Bongocatcodes GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
   ##
  
 <div>
