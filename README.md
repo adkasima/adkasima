@@ -14,7 +14,7 @@
 </div>
 
   ##
- <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png">
+ <img height="30" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png">
  
 <div>
    <a href="https://www.linkedin.com/in/adkasima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"        target="_blank"></a> 
