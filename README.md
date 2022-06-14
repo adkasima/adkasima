@@ -1,4 +1,9 @@
 ## Olá, Me chamo Adriel Kasima
+
+<ul>
+ <li>Gosto de Frontend</li>
+ <li>Sou estudante de análise e desenvolvimento de sistemas</li>
+ </ul>
  <div>
   <a href="https://github.com/adkasima">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adkasima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -9,6 +14,7 @@
 </div>
 
   ##
+ <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png">
  
 <div>
    <a href="https://www.linkedin.com/in/adkasima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"        target="_blank"></a> 
