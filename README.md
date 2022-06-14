@@ -1,8 +1,10 @@
-## Olá, Me chamo Adriel Kasima
+## Olá, Me chamo Adriel
 
 <ul>
- <li>Gosto de Frontend</li>
- <li>Sou estudante de análise e desenvolvimento de sistemas</li>
+ <li>Gosto de Frontend 🖥</li>
+ <li>Sou estudante de análise e desenvolvimento de sistemas 🎓</li>
+ <li>Salto de Pirapora / SP 🍀</li>
+ <li>Contato: adrielkasima@gmail.com</li>
  </ul>
  <div>
   <a href="https://github.com/adkasima">
@@ -13,8 +15,12 @@
   <img align="right" width="200em" alt="Bongo-cat" src="https://media1.tenor.com/images/a3d1b3b19f405464f61a9e71a102f64b/tenor.gif?itemid=22068584">
 </div>
 
+ <img height="40" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png">
+ <img height="40" width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
+ <img height="40" width="40" src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png">
+ 
   ##
- <img height="30" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png">
+ 
  
 <div>
    <a href="https://www.linkedin.com/in/adkasima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"        target="_blank"></a> 
