@@ -1,7 +1,7 @@
 ## Olá, Me chamo Adriel
 
 <ul>
- <li>Gosto de Frontend 🖥</li>
+ <li>Frontend 🖥</li>
  <li>Sou estudante de análise e desenvolvimento de sistemas 🎓</li>
  <li>Salto de Pirapora / SP 🍀</li>
  <li>Contato: adrielkasima@gmail.com</li>
