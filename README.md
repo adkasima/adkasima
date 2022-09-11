@@ -1,5 +1,11 @@
 ## Hi there, I'm Adriel :)
 
+### About me
+I'm a web development student.
+
+###Current stack
+- Front-end: 'HTML5', 'CSS3', 'Javascript', 'ReactJS'
+
 
 
 
