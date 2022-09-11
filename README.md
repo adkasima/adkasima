@@ -1,17 +1,17 @@
 ## Hi there, I'm Adriel :)
 
 ### About me
-I'm a web development student.
+📚 I'm a web development student.
 
 #### Current stack
-- Front-end: `HTML5`, `CSS3`, `Javascript`, `ReactJS`
-- Back-end: `NodeJS`
-- Version code control: `Git`, `Github`
-- Layout design: `Figma`
+- 🖥️ Front-end: `HTML5`, `CSS3`, `Javascript`, `ReactJS`
+- 🔗 Back-end: `NodeJS`
+- 📦 Version code control: `Git`, `Github`
+- 🎨 Layout design: `Figma`
 
 #### Contact
-- Email: adrielkasima@gmail.com
-- Linkedin: linkedin.com/in/adkasima/
+- 📧 Email: adrielkasima@gmail.com
+- 🗣️ Linkedin: https://www.linkedin.com/in/adkasima/
 
 
 
