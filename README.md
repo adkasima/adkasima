@@ -3,9 +3,15 @@
 ### About me
 I'm a web development student.
 
-###Current stack
+#### Current stack
 - Front-end: `HTML5`, `CSS3`, `Javascript`, `ReactJS`
 - Back-end: `NodeJS`
+- Version code control: `Git`, `Github`
+- Layout design: `Figma`
+
+#### Contact
+- Email: adrielkasima@gmail.com
+- Linkedin: linkedin.com/in/adkasima/
 
 
 
