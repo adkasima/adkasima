@@ -1,11 +1,8 @@
-## Olá, Me chamo Adriel
+## Hi there, I'm Adriel :)
 
-<ul>
- <li>Frontend 🖥</li>
- <li>Sou estudante de análise e desenvolvimento de sistemas 🎓</li>
- <li>Salto de Pirapora / SP 🍀</li>
- <li>Contato: adrielkasima@gmail.com</li>
- </ul>
+
+
+
  <div>
   <a href="https://github.com/adkasima">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adkasima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
