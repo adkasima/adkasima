@@ -4,7 +4,8 @@
 I'm a web development student.
 
 ###Current stack
-- Front-end: 'HTML5', 'CSS3', 'Javascript', 'ReactJS'
+- Front-end: `HTML5`, `CSS3`, `Javascript`, `ReactJS`
+- Back-end: `NodeJS`
 
 
 
