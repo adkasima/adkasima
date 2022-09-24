@@ -1,8 +1,8 @@
 ## Hi there, I'm Adriel :)
 
 ### About me
-📚 I'm a web development student.
-🎓 Actually, i'm at 4/6 graduation period in analysis and systems development at Fatec Sorocaba.
+- 📚 I'm a web development student.
+- 🎓 Actually, i'm at 4/6 graduation period in analysis and systems development at Fatec Sorocaba.
 
 #### Actually studying and using: 
 - 🖥️ Front-end: `HTML5`, `CSS3`, `JavaScript`, `ReactJS`
