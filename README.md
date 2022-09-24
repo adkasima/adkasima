@@ -2,9 +2,9 @@
 
 ### About me
 - 📚 I'm a web development student.
-- 🎓 Actually, i'm at 4/6 graduation period in analysis and systems development at Fatec Sorocaba.
+- 🎓 Currently, i'm at 4/6 graduation period in analysis and systems development at Fatec Sorocaba.
 
-#### Actually studying and using: 
+#### Currently studying and using: 
 - 🖥️ Front-end: `HTML5`, `CSS3`, `JavaScript`, `ReactJS`
 - 🔗 Back-end: `NodeJS`
 - 💾 Database: `Oracle SQL`, `mySQL`, `SQLite`
