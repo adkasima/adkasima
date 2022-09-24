@@ -2,11 +2,13 @@
 
 ### About me
 📚 I'm a web development student.
+🎓 Actually, i'm at 4/6 graduation period in analysis and systems development at Fatec Sorocaba.
 
-#### Current stack
-- 🖥️ Front-end: `HTML5`, `CSS3`, `Javascript`, `ReactJS`
+#### Actually studying and using: 
+- 🖥️ Front-end: `HTML5`, `CSS3`, `JavaScript`, `ReactJS`
 - 🔗 Back-end: `NodeJS`
-- 📦 Version code control: `Git`, `Github`
+- 💾 Database: `Oracle SQL`, `mySQL`, `SQLite`
+- 📦 Code versioning control: `Git`, `Github`
 - 🎨 Layout design: `Figma`
 
 #### Contact
