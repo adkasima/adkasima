@@ -25,6 +25,7 @@
   <div class="right">
   <img width="1rem" alt="Bongo-cat" src="https://media1.tenor.com/images/a3d1b3b19f405464f61a9e71a102f64b/tenor.gif?itemid=22068584">
 </div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 
  
   ##
