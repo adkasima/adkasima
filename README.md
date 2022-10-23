@@ -22,10 +22,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkasima&layout=compact&langs_count=3&theme=midnight-purple"/>
 </div>
   
-  <div class="right">
-  <img width="1rem" alt="Bongo-cat" src="https://media1.tenor.com/images/a3d1b3b19f405464f61a9e71a102f64b/tenor.gif?itemid=22068584">
-</div>
-  <img align="right" alt="prof-pic" height="150" style="border-radius:50px;" src="https://media1.tenor.com/images/a3d1b3b19f405464f61a9e71a102f64b/tenor.gif?itemid=22068584">
+  <img align="right" alt="bongo-cat" height="150" style="border-radius:50px;" src="https://media1.tenor.com/images/a3d1b3b19f405464f61a9e71a102f64b/tenor.gif?itemid=22068584">
 
  
   ##
