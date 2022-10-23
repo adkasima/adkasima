@@ -18,7 +18,7 @@
 
 
 <div >
-  <img width="5rem" alt="Bongo-cat" src="https://media1.tenor.com/images/a3d1b3b19f405464f61a9e71a102f64b/tenor.gif?itemid=22068584">
+  <img width="1rem" alt="Bongo-cat" src="https://media1.tenor.com/images/a3d1b3b19f405464f61a9e71a102f64b/tenor.gif?itemid=22068584">
 </div>
 
  <div>
