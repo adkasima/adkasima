@@ -16,15 +16,14 @@
 - 🗣️ Linkedin: https://www.linkedin.com/in/adkasima/
 
 
-
-<div >
-  <img width="1rem" alt="Bongo-cat" src="https://media1.tenor.com/images/a3d1b3b19f405464f61a9e71a102f64b/tenor.gif?itemid=22068584">
-</div>
-
  <div>
   <a href="https://github.com/adkasima">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adkasima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkasima&layout=compact&langs_count=3&theme=midnight-purple"/>
+</div>
+  
+  <div >
+  <img width="1rem" alt="Bongo-cat" src="https://media1.tenor.com/images/a3d1b3b19f405464f61a9e71a102f64b/tenor.gif?itemid=22068584">
 </div>
 
  
