@@ -1,4 +1,4 @@
-<h1 align="center">Olá, 👋, Eu sou Adriel</h1>
+<h1 align="center">Olá 👋, Eu sou Adriel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adkasima&label=Profile%20views&color=0e75b6&style=flat" alt="adkasima" /> </p>
 
 - 🌱 Atualmente estou estudando **JavaScript, ReactJS, NodeJS**
