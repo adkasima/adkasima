@@ -4,6 +4,7 @@
 - 📚 Estudante de desenvolvimento web, buscando oportunidade de estágio.
 - 🎓 Atualmente estou no 5° Semestre de análise e desenvolviemento de sistemas na Fatec Sorocaba, período noturno.
 - 👨‍💻 Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app/)
+- 👨‍💻 Portfólio pessoal <a href="https://portfolio-adkasima.vercel.app/" target="_blank">Portfólio</a>
 
 #### Estudando e utilizando
 - 🖥️ Front-end: `HTML5`, `CSS3`, `JavaScript`, `ReactJS`
