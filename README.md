@@ -1,8 +1,9 @@
-## Hi there, I'm Adriel :)
+## Olá 👋, sou Adriel
 
-### About me
-- 📚 I'm a web development student.
-- 🎓 Currently, i'm at 4/6 graduation period in analysis and systems development at Fatec Sorocaba.
+### Sobre mim
+- 📚 Estudante de desenvolvimento web.
+- 🎓 Atualmente estou no 5°Semestre de análise e desenvolviemnto de sistemas na Fatec Sorocaba.
+- 👨‍💻 Portfólio pessoal [https://portfolio-adkasima.vercel.app/](https://portfolio-adkasima.vercel.app/)
 
 #### Currently studying and using: 
 - 🖥️ Front-end: `HTML5`, `CSS3`, `JavaScript`, `ReactJS`
@@ -18,16 +19,10 @@
 </div>
 
 
+    
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adkasima&show_icons=true&locale=en&layout=compact&theme=midnight-purpl" alt="adkasima" /></p>
 
-
- <div>
-  <a href="https://github.com/adkasima">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adkasima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkasima&layout=compact&langs_count=3&theme=midnight-purple"/>
-</div>
-  
-  <img align="right" alt="bongo-cat" height="150" style="border-radius:50px;" src="https://media1.tenor.com/images/a3d1b3b19f405464f61a9e71a102f64b/tenor.gif?itemid=22068584">
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adkasima&show_icons=true&locale=en&theme=midnight-purpl" alt="adkasima" /></p>
  
   ##
  
