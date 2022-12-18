@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adriel</h1>
-<h3 align="center">A passionate developer.</h3>
-
+<h1 align="center">Olá, 👋, Eu sou Adriel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adkasima&label=Profile%20views&color=0e75b6&style=flat" alt="adkasima" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adkasima" alt="adkasima" /></a> </p>
+- 🌱 Atualmente estou estudando **JavaScript, ReactJS, NodeJS**
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**
+- 👨‍💻 Portfólio pessoal [https://portfolio-adkasima.vercel.app/](https://portfolio-adkasima.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adkasima&show_icons=true&locale=en&layout=compact" alt="adkasima" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adkasima&show_icons=true&locale=en" alt="adkasima" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adkasima&" alt="adkasima" /></p>
