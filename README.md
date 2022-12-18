@@ -1,6 +1,6 @@
 ## Olá 👋, eu sou Adriel
 
-       <p align="left"> <img src="https://komarev.com/ghpvc/?username=adkasima&label=Profile%20views&color=0e75b6&style=flat" alt="adkasima" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adkasima&label=Profile%20views&color=0e75b6&style=flat" alt="adkasima" /> </p>
 
 ### Sobre mim
 - 📚 Estudante de desenvolvimento web, buscando oportunidade de estágio.
