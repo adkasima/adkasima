@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Adriel</h1>
+<h1 align="center">Olá👋, Eu sou Adriel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adkasima&label=Profile%20views&color=0e75b6&style=flat" alt="adkasima" /> </p>
 
 - 🌱 Atualmente estou estudando **JavaScript, ReactJS, NodeJS**
@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/adkasima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adkasima" height="30" width="40" /></a>
 <a href="https://instagram.com/adkasima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adkasima" height="30" width="40" /></a>
-<a href="https://discord.gg/! 𝒦 𝑎 𝑠 𝑖 𝑚 𝑎#0104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="! 𝒦 𝑎 𝑠 𝑖 𝑚 𝑎#0104" height="30" width="40" /></a>
+<a href="https://discord.gg/0104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0104" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
