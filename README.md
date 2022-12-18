@@ -1,5 +1,7 @@
 ## Olá 👋, eu sou Adriel
 
+       <p align="left"> <img src="https://komarev.com/ghpvc/?username=adkasima&label=Profile%20views&color=0e75b6&style=flat" alt="adkasima" /> </p>
+
 ### Sobre mim
 - 📚 Estudante de desenvolvimento web, buscando oportunidade de estágio.
 - 🎓 Atualmente estou no 5° Semestre de análise e desenvolviemento de sistemas na Fatec Sorocaba, período noturno.
@@ -25,11 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adkasima&show_icons=true&locale=en&theme=midnight-purple" alt="adkasima" /></p>
 </div>
-
-<div>
-       <p align="left"> <img src="https://komarev.com/ghpvc/?username=adkasima&label=Profile%20views&color=0e75b6&style=flat" alt="adkasima" /> </p>
-</div>
-
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
