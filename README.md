@@ -1,8 +1,8 @@
 ## Olá 👋, eu sou Adriel
 
 ### Sobre mim
-- 📚 Estudante de desenvolvimento web.
-- 🎓 Atualmente estou no 5°Semestre de análise e desenvolviemnto de sistemas na Fatec Sorocaba, período noturno.
+- 📚 Estudante de desenvolvimento web, buscando oportunidade de estágio.
+- 🎓 Atualmente estou no 5°Semestre de análise e desenvolviemento de sistemas na Fatec Sorocaba, período noturno.
 - 👨‍💻 Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app/)
 
 #### Estudando e utilizando
