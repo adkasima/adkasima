@@ -18,11 +18,12 @@
     <a href="https://www.linkedin.com/in/adkasima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
 </div>
 
+<div>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adkasima&show_icons=true&locale=en&layout=compact&theme=midnight-purple"           alt="adkasima" /></p>
 
-    
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adkasima&show_icons=true&locale=en&layout=compact&theme=midnight-purpl" alt="adkasima" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adkasima&show_icons=true&locale=en&theme=midnight-purple" alt="adkasima" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adkasima&show_icons=true&locale=en&theme=midnight-purpl" alt="adkasima" /></p>
  
   ##
  
