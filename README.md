@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adkasima&label=Profile%20views&color=0e75b6&style=flat" alt="adkasima" /> </p>
 
 ### Sobre mim
-- 📚 Estudante de desenvolvimento web, buscando oportunidade de estágio.
+- 📚 Graduando de ADS e estudante de desenvolvimento web, buscando oportunidade de estágio com foco em front-end.
 - 🎓 Atualmente estou no 5° Semestre de análise e desenvolviemento de sistemas na Fatec Sorocaba, período noturno.
 - 👨‍💻 Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app/)
 
-#### Estudando e utilizando
+#### Atualmente estudando
 - 🖥️ Front-end: `HTML5`, `CSS3`, `JavaScript`, `ReactJS`
 - 🔗 Back-end: `NodeJS`
 - 💾 Banco de dados: `Oracle SQL`, `mySQL`, `SQLite`
