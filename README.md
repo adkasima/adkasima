@@ -16,7 +16,7 @@
 
   - 📚 Graduando de ADS e estudante de desenvolvimento web, buscando oportunidade de estágio com foco em front-end.<br>
   - 🎓 Atualmente estou no 5° Semestre de análise e desenvolviemento de sistemas na Fatec Sorocaba, período noturno.<br>
-  - 💻 Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app)
+  - 💻 Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app).
 
 ###
 
@@ -67,6 +67,9 @@
   </a>
   <a href="discordapp.com/users/180449075886424064" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="mailto:adrielkasima@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
