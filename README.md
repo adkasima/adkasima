@@ -14,11 +14,9 @@
 
 <br clear="both">
 
-  <p>
-  - 📚 Graduando de ADS e estudante de desenvolvimento web, buscando oportunidade de estágio com foco em front-end.<br>
-  - 🎓 Atualmente estou no 5° Semestre de análise e desenvolviemento de sistemas na Fatec Sorocaba, período noturno.<br>
+  - 📚 Graduando de ADS e estudante de desenvolvimento web, buscando oportunidade de estágio com foco em front-end.
+  - 🎓 Atualmente estou no 5° Semestre de análise e desenvolviemento de sistemas na Fatec Sorocaba, período noturno.
   - 💻 Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app).
-  </p>
 
 ###
 
@@ -77,6 +75,10 @@
 
 ###
 
+<br>
+<br>
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=adkasima" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=adkasima" height="150" alt="languages graph"  />
@@ -86,6 +88,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/adkasima/adkasima/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ###
