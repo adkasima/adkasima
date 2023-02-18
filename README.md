@@ -1,4 +1,4 @@
-<h1 align="left">Olá👋, Como vai você ?</h1>
+<h1 align="left">Hello👋, How are you ?</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About me {</h2>
 
 
 ###
@@ -16,9 +16,9 @@
 <br clear="both">
   <div>
     <ul>
-      <li>🗿 Técnico em informática para internet.</li>
-      <li>🎓 Atualmente no 5° Semestre de análise e desenvolviemento de sistemas, período noturno.</li>
-      <li>📚 Estudante de desenvolvimento web, buscando oportunidade de ingressar na área.</li>
+      <li>🦇 Graduated in computing for internet Technician Integrated to High School at Etec Fernando Prestes (2018 - 2020).</li>
+      <li>🎓 I'm currently graduating in analysis and systems development at Fatec Sorocaba (2021 - 2023).</li>
+      <li>📚 Web development student, looking for a job oportunity.</li>
     </ul>
   
 ###
@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left">Estudando</h2>
+<h2 align="left">Already studied {</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="left">Já tive contato</h2>
+<h2 align="left"></h2>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h2 align="left">Contate-me</h2>
+<h2 align="left">Contact {</h2>
 
 ###
 
