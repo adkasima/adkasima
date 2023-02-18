@@ -18,7 +18,9 @@
 
 ###
 
-<img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e378c6153175705.632affe892866.gif"  />
+<br clear="both">
+
+<img align="right" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e378c6153175705.632affe892866.gif"  />
 
 ###
 
