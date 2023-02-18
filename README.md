@@ -10,19 +10,17 @@
 
 <h2 align="left">Sobre mim</h2>
 
+
 ###
 
 <br clear="both">
-
-<img align="right" width="370" height="370" src="https://media.tenor.com/ZvOCunW56s4AAAAC/rain-pixel.gif"  />
-
-###
-
-    - 🗿 Técnico em informática para internet.<br>
-    - 🎓 Atualmente no 5° Semestre de análise e desenvolviemento de sistemas, período noturno.
-    📚 Estudante de desenvolvimento web, buscando oportunidade de ingressar na área.
-    💻 Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app).
-
+  <div>
+    <ul>
+      <li>🗿 Técnico em informática para internet.</li>
+      <li>🎓 Atualmente no 5° Semestre de análise e desenvolviemento de sistemas, período noturno.</li>
+      <li>📚 Estudante de desenvolvimento web, buscando oportunidade de ingressar na área.</li>
+    </ul>
+  
 ###
 
 <br clear="both">
