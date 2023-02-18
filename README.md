@@ -17,10 +17,10 @@
   <div>
     <ul>
       <li>👾 Passionate about technology and cyberpunk aesthetic.</li>
-      <li>🦇 Graduated in computing for internet Technician at Etec Fernando Prestes (2018 - 2020).</li>
-      <li>🎓 I'm currently graduating in analysis and systems development at Fatec Sorocaba (2021 - 2023).</li>
+      <li>🦇 Computing for internet Technician at <a href="https://www.etecfernandoprestes.com.br" target="_blank ">Etec Fernando Prestes</a> (2018 - 2020).</li>
+      <li>🎓 I'm currently graduating in systems analysis and development at <a href="http://fatecsorocaba.edu.br" >Fatec Sorocaba</a> (2021 - 2023).</li>
       <li>📚 Web development student, looking for a dev oportunity.</li>
-      <li>🧠 My personal porfolio, click <a href="https://portfolio-adkasima.vercel.app" target="_blank" >HERE</></li>
+      <li>🧠 See my personal porfolio right <a href="https://portfolio-adkasima.vercel.app" target="_blank" >HERE</a></li>
     </ul>
   
 ###
