@@ -14,11 +14,11 @@
 
 <br clear="both">
 
-<p align="left">📚 Graduando de ADS e estudante de desenvolvimento web, buscando oportunidade de estágio com foco em front-end.<br>🎓 Atualmente estou no 5° Semestre de análise e desenvolviemento de sistemas na Fatec Sorocaba, período noturno.<br>👨‍💻 Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app/)</p>
-### Sobre mim
-- 📚 Graduando de ADS e estudante de desenvolvimento web, buscando oportunidade de estágio com foco em front-end.
-- 🎓 Atualmente estou no 5° Semestre de análise e desenvolviemento de sistemas na Fatec Sorocaba, período noturno.
-- 👨‍💻 Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app/)
+<p align="left">
+  - 📚 Graduando de ADS e estudante de desenvolvimento web, buscando oportunidade de estágio com foco em front-end.<br>
+  - 🎓 Atualmente estou no 5° Semestre de análise e desenvolviemento de sistemas na Fatec Sorocaba, período noturno.<br>👨‍💻
+  - Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app/)
+</p>
 
 ###
 
