@@ -12,6 +12,8 @@
 
 ###
 
+<img align="left" width="370" height="370" src="https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif"  />
+
 <br clear="both">
 
   - 🗿 Técnico em informática para internet.
