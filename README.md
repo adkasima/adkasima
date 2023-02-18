@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left">Already studied {</h2>
+<h2 align="left">Studying {</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="left"></h2>
+<h2 align="left">Already studied {</h2>
 
 ###
 
