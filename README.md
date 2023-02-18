@@ -12,7 +12,13 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">📚 Graduando de ADS e estudante de desenvolvimento web, buscando oportunidade de estágio com foco em front-end.<br>🎓 Atualmente estou no 5° Semestre de análise e desenvolviemento de sistemas na Fatec Sorocaba, período noturno.<br>👨‍💻 Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app/)</p>
+
+###
+
+<img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e378c6153175705.632affe892866.gif"  />
 
 ###
 
@@ -62,18 +68,14 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=adkasima" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=6&theme=tokyonight&hide_border=false&username=adkasima" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=adkasima" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=adkasima" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e378c6153175705.632affe892866.gif"  />
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/adkasima/adkasima/blob/output/snake.svg" alt="Snake animation" />
 
