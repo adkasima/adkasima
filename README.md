@@ -12,14 +12,16 @@
 
 ###
 
-<img align="left" width="370" height="370" src="https://media.tenor.com/ZvOCunW56s4AAAAC/rain-pixel.gif"  />
-
 <br clear="both">
 
-  - 🗿 Técnico em informática para internet.
-  - 🎓 Atualmente no 5° Semestre de análise e desenvolviemento de sistemas, período noturno.
-  - 📚 Estudante de desenvolvimento web, buscando oportunidade de ingressar na área.
-  - 💻 Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app).
+<img align="right" width="370" height="370" src="https://media.tenor.com/ZvOCunW56s4AAAAC/rain-pixel.gif"  />
+
+###
+
+    - 🗿 Técnico em informática para internet.<br>
+    - 🎓 Atualmente no 5° Semestre de análise e desenvolviemento de sistemas, período noturno.
+    📚 Estudante de desenvolvimento web, buscando oportunidade de ingressar na área.
+    💻 Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app).
 
 ###
 
