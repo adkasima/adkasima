@@ -12,7 +12,7 @@
 
 ###
 
-<img align="left" width="370" height="370" src="https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif"  />
+<img align="left" width="370" height="370" src="https://media.tenor.com/ZvOCunW56s4AAAAC/rain-pixel.gif"  />
 
 <br clear="both">
 
@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<img align="right" width="370" height="370" src="https://media.tenor.com/ZvOCunW56s4AAAAC/rain-pixel.gif"  />
+<img align="right" width="370" height="370" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e378c6153175705.632affe892866.gif"  />
 
 ###
 
