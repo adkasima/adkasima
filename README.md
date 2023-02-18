@@ -14,8 +14,9 @@
 
 <br clear="both">
 
-  - 📚 Graduando de ADS e estudante de desenvolvimento web, buscando oportunidade de estágio com foco em front-end.
-  - 🎓 Atualmente estou no 5° Semestre de análise e desenvolviemento de sistemas na Fatec Sorocaba, período noturno.
+  - 🗿 Técnico em informática para internet.
+  - 🎓 Atualmente no 5° Semestre de análise e desenvolviemento de sistemas, período noturno.
+  - 📚 Estudante de desenvolvimento web, buscando oportunidade de ingressar na área.
   - 💻 Portfólio pessoal [Portfólio](https://portfolio-adkasima.vercel.app).
 
 ###
@@ -57,7 +58,7 @@
 
 ###
 
-<h2 align="left">Redes sociais</h2>
+<h2 align="left">Contate-me</h2>
 
 ###
 
