@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Already had contact {</h2>
+<h2 align="left">Already studied {</h2>
 
 ###
 
