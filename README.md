@@ -66,11 +66,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adkasima&show_icons=true&theme=radical)
 
-###
-
-<br clear="both">
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-###
