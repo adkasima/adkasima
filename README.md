@@ -26,7 +26,8 @@
 
 <br clear="both">
 
-<img align="right" width="370" height="370" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e378c6153175705.632affe892866.gif"  />
+<img align="right" width="370" height="370" style="z-index: 1" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e378c6153175705.632affe892866.gif" alt="Descrição da imagem" />
+
 
 ###
 
