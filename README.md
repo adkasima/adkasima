@@ -32,7 +32,6 @@
 
 <h2 align="left">Skills {</h2>
 
-
 <div align="left">
                     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
@@ -46,8 +45,6 @@
 ###
 
 <h2 align="left">Contact me {</h2>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/adkasima/" target="_blank">
