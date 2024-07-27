@@ -1,10 +1,8 @@
 <h1 align="left">Hello👋, How are you ?</h1>
 
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/adkasima/count.svg?" />
 </div>
-
 
 <h2 align="left">About me {</h2>
 
@@ -19,7 +17,6 @@
 
 <img align="right" width="370" height="370" style="z-index: 999" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e378c6153175705.632affe892866.gif" alt="Descrição da imagem" />
 
-
 <h2 align="left">Skills {</h2>
 
 <div align="left">
@@ -30,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="52" alt="MySQL logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="52" alt="Docker logo" />
 </div>
-
 
 <h2 align="left">Contact {</h2>
 
@@ -46,13 +42,8 @@
   </a>
 </div>
 
-
 <br>
 <br>
 <br>
-<br>
-<br>
-
-###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adkasima&show_icons=true&theme=radical)
