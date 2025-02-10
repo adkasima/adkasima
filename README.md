@@ -42,8 +42,6 @@
   </a>
 </div>
 
-<script src="https://gist.github.com/adkasima/8a4a8c9656d0162f9db24df0145e8ea7.js"></script>
-
 <br>
 <br>
 <br>
